@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ExamenApp.Models
+{
+    public class CirculoModel : TabbedPage
+    {
+        public const double PI = Math.PI;
+    }
+}
